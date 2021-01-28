@@ -39,4 +39,4 @@ per epoch.
 
 # Results
 
-![Results](/docs/gan.png)
+![Results](/docs/gan.PNG)
